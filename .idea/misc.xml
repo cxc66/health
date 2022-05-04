@@ -7,13 +7,17 @@
         <entry key="..\:/Android/Test/app/src/main/res/drawable-v24/info_et_bg.xml" value="0.2265" />
         <entry key="..\:/Android/Test/app/src/main/res/drawable-v24/item_gridbg.xml" value="0.1" />
         <entry key="..\:/Android/Test/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1005" />
+        <entry key="..\:/Android/Test/app/src/main/res/drawable/shape_big_login_btn.xml" value="0.1665" />
+        <entry key="..\:/Android/Test/app/src/main/res/drawable/shape_big_register_btn.xml" value="0.1665" />
+        <entry key="..\:/Android/Test/app/src/main/res/drawable/shape_login_btn.xml" value="0.1665" />
+        <entry key="..\:/Android/Test/app/src/main/res/drawable/shape_login_form.xml" value="0.1665" />
         <entry key="..\:/Android/Test/app/src/main/res/layout/activity_about.xml" value="0.109375" />
         <entry key="..\:/Android/Test/app/src/main/res/layout/activity_food_desc.xml" value="0.109375" />
         <entry key="..\:/Android/Test/app/src/main/res/layout/activity_food_grid.xml" value="0.109375" />
         <entry key="..\:/Android/Test/app/src/main/res/layout/activity_guide.xml" value="0.109375" />
         <entry key="..\:/Android/Test/app/src/main/res/layout/activity_home_menu.xml" value="0.1" />
         <entry key="..\:/Android/Test/app/src/main/res/layout/activity_info_list.xml" value="0.10526315789473684" />
-        <entry key="..\:/Android/Test/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Android/Test/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Android/Test/app/src/main/res/layout/activity_main2.xml" value="0.24947916666666667" />
         <entry key="..\:/Android/Test/app/src/main/res/layout/item_aboutvp.xml" value="0.109375" />
         <entry key="..\:/Android/Test/app/src/main/res/layout/item_foodgrid.xml" value="0.109375" />
